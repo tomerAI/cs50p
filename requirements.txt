@@ -1,0 +1,5 @@
+
+pystan==2.14
+holidays==0.24
+fbprophet
+tabulate
